@@ -1,7 +1,11 @@
 ---
+layout: page
+title: About This Blog
+
+---
 
 ## 📘 About This Blog
-
+---
 Welcome to my learning journal! This blog is where I **document my daily progress**, reflections, and discoveries as I work through:
 
 - A full year of **certification goals**
@@ -21,5 +25,3 @@ This blog isn’t about perfection — it’s about **showing up every day**, st
 > "Small steps every day lead to big changes over time."
 
 ---
-
-Follow along if you're on a similar journey — let’s grow together.

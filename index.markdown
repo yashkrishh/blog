@@ -1,3 +1,8 @@
+---
+layout: default
+title: My Learning Journey – Certifications, Projects & Daily Progress
+---
+
 # 🎓 My Learning Journey – Certifications, Projects & Daily Progress
 
 Welcome to the repo where I track my **certification roadmap, daily learning logs, and personal growth as a data/cloud/AI engineer**. This is my open journal of everything I'm learning and building in 2024–25.
