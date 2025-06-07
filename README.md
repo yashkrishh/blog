@@ -1,9 +1,4 @@
 ---
-layout: page
-title: README.md
-
----
-
 ## 📘 About This Blog
 ---
 Welcome to my learning journal! This blog is where I **document my daily progress**, reflections, and discoveries as I work through:
