@@ -6,12 +6,6 @@ categories: jekyll update
 ---
 # My Certification Roadmap: One Year, Six Milestones 🎯
 
-I've made a decision that I'm really excited about — to **focus the next year on pursuing key certifications** that will help me grow deeper into cloud, data, and AI engineering.
-
-Certifications aren't just about collecting badges — they're about learning **practical, modern skills** that make a difference in real-world systems. Whether it’s orchestrating containers, building AI pipelines, or optimizing cloud-based data platforms, each of these certifications reflects an area I’m passionate about.
-
----
-
 ## 🗓️ One-Year Certification Plan
 
 Here's the roadmap I've laid out for myself:
@@ -52,20 +46,23 @@ Here's the roadmap I've laid out for myself:
 
 ---
 
-## Why This Matters to Me
+## 📚 Parallel Learning Tracks
 
-This isn't just a checklist—it's a growth journey. I want to sharpen both **depth and breadth** across data, cloud, and AI platforms so I can:
-- Build smarter systems
-- Contribute to impactful projects
-- Stay future-proof in a rapidly evolving tech world
+Alongside the certification roadmap, I’m also sharpening my problem-solving and system design skills through daily practice and projects:
+
+- 🔍 **Blind 75 LeetCode** – Revisiting core DSA patterns to strengthen my fundamentals
+- 🧮 **SQL + Pandas problems** – Focusing on real-world data wrangling and analytics
+- 🏗️ **System Design** – Studying scalable architecture patterns and distributed systems
+- ⚡ **Apache Spark Problems** – Practicing transformations, RDD/DataFrame operations, and optimizations
+- 🤖 **Applied AI Course** – Deep diving into ML algorithms, model deployment, and AI workflows
+- 🧪 **Kaggle Projects** – Applying ML and data engineering to practical datasets and competitions
 
 ---
 
-If you're on a similar path, let’s connect! I’d love to trade notes, study tips, or just encourage each other along the way.
+It’s a packed year — but every hour invested now builds the tech foundation I want to stand on tomorrow.
 
 > “Learning never exhausts the mind.” — Leonardo da Vinci
 
 ---
 
-🔖 *Bookmark this space. I’ll share learnings, resources, and reflections as I go.*
 
