@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "First Blog Post"
-date:   2025-06-07 18:18:44 +0530
+title:  "Second Blog Post"
+date:   2025-06-06 18:18:44 +0530
 categories: jekyll update
 ---
 # My Certification Roadmap: One Year, Six Milestones 🎯
