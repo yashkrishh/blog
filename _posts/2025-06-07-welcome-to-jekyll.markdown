@@ -1,29 +1,71 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "First Blog Post"
 date:   2025-06-07 18:18:44 +0530
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+# My Certification Roadmap: One Year, Six Milestones 🎯
 
-Jekyll requires blog post files to be named according to the following format:
+I've made a decision that I'm really excited about — to **focus the next year on pursuing key certifications** that will help me grow deeper into cloud, data, and AI engineering.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Certifications aren't just about collecting badges — they're about learning **practical, modern skills** that make a difference in real-world systems. Whether it’s orchestrating containers, building AI pipelines, or optimizing cloud-based data platforms, each of these certifications reflects an area I’m passionate about.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+---
 
-Jekyll also offers powerful support for code snippets:
+## 🗓️ One-Year Certification Plan
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Here's the roadmap I've laid out for myself:
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+### 1. 🚢 **CKA – Certified Kubernetes Administrator**
+- **Goal Date:** July 21st  
+- Kubernetes is the backbone of modern DevOps and microservices. Mastering it will strengthen my ability to deploy, scale, and troubleshoot containerized applications.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+---
+
+### 2. 📊 **Databricks Data Engineer Associate/Professional**
+- **Goal Date:** September 15th  
+- Databricks is transforming how we handle big data and AI workflows. This certification will deepen my knowledge in Spark, Delta Lake, and data engineering at scale.
+
+---
+
+### 3. 🤖 **AWS + AI OR NVIDIA AI Specialist**
+- **Goal Date:** November 10th  
+- I want to validate my cloud AI knowledge either through **AWS AI/ML certification** or **NVIDIA's Deep Learning Institute track**. This one’s all about blending cloud and intelligence.
+
+---
+
+### 4. ☁️ **GCP Data Engineer OR Azure Developer**
+- **Goal Date:** January 27th  
+- Depending on evolving interests, I’ll either focus on Google’s ML-centric data pipelines or strengthen my Azure development skills. Both are highly relevant for enterprise systems.
+
+---
+
+### 5. ❄️ **Snowflake SnowPro Advanced: Architect**
+- **Goal Date:** March 23rd  
+- Snowflake remains core to my data warehousing toolkit. Recertifying ensures I'm up-to-date with new features and best practices.
+
+---
+
+### 6. 🔁 **Azure Developer OR GCP Data Engineer (Whichever I didn’t take in Jan)**
+- **Goal Date:** May 18th  
+- Whichever cloud certification I didn’t take earlier, I’ll complete it here. This will round off my cross-cloud capabilities.
+
+---
+
+## Why This Matters to Me
+
+This isn't just a checklist—it's a growth journey. I want to sharpen both **depth and breadth** across data, cloud, and AI platforms so I can:
+- Build smarter systems
+- Contribute to impactful projects
+- Stay future-proof in a rapidly evolving tech world
+
+---
+
+If you're on a similar path, let’s connect! I’d love to trade notes, study tips, or just encourage each other along the way.
+
+> “Learning never exhausts the mind.” — Leonardo da Vinci
+
+---
+
+🔖 *Bookmark this space. I’ll share learnings, resources, and reflections as I go.*
+
