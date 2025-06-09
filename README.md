@@ -15,8 +15,8 @@ Welcome to my learning journal! This blog is where I **document my daily progres
 - 🎯 **Goal updates** — Progress tracking for my certification timeline
 - 🧠 **Mini-guides** — Notes, commands, tips, and code snippets worth sharing
 
-This blog isn’t about perfection — it’s about **showing up every day**, staying consistent, and **learning in public**.
-
 > "Small steps every day lead to big changes over time."
+
+You can also visit my blog directly: [My Learning Journey Blog](https://yashkrishh.github.io/blog)
 
 ---

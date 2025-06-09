@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First Blog Post"
+title:  "Day 1 - My Certification Roadmap"
 date:   2025-06-07 18:18:44 +0530
 categories: jekyll update
 ---
@@ -58,8 +58,6 @@ Alongside the certification roadmap, I’m also sharpening my problem-solving an
 - 🧪 **Kaggle Projects** – Applying ML and data engineering to practical datasets and competitions
 
 ---
-
-It’s a packed year — but every hour invested now builds the tech foundation I want to stand on tomorrow.
 
 > “Learning never exhausts the mind.” — Leonardo da Vinci
 
