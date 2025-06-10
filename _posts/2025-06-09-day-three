@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Day 3 - A Productive Start to the Week"
+date:   2025-06-09 19:45:00 +0530
+categories: jekyll update
+---
+## Monday, June 9 — A Productive Start to the Week
+
+Felt good to finally gain some momentum today. Unlike yesterday, I managed to stay on track and make progress across multiple fronts.
+
+---
+
+### 📦 Learning & Upskilling
+
+- **Finished** the *Docker for the Absolute Beginner* course (except for the labs).  
+  Started the labs, and plan to complete them today. 🧪
+
+- **Started** the **Kubernetes for Beginners** course on [KodeKloud](https://kodekloud.com/) — aiming to wrap it up by tomorrow.  
+  It’s a hands-on course and a great prep for CKAD.
+
+- Found some really promising follow-up courses to line up:
+  - Jenkins: [Jenkins Masterclass](https://www.udemy.com/course/jenkins-masterclass/)
+  - OpenShift: [Learn OpenShift](https://www.udemy.com/course/learn-openshift/)
+  - Podman: [Podman for Absolute Beginners](https://www.udemy.com/course/podman-for-the-absolute-beginners-hands-on-devops/)
+  - Agentic AI: [Complete Agentic AI Bootcamp with LangGraph & LangChain](https://www.udemy.com/course/complete-agentic-ai-bootcamp-with-langgraph-and-langchain/)
+  - MLOps: [Mastering Advanced MLOps on GCP](https://www.udemy.com/course/mastering-advanced-mlops-on-gcp-cicd-kubernetes-kubeflow/)
+
+---
+
+### 🛠️ Office Work
+
+- Spent time debugging scripts that broke due to our **migration away from Spark**.
+- Fixed multiple issues and defects — tough but satisfying.
+
+---
+
+### 🚀 Tomorrow’s Plan
+
+- Complete the **Docker labs**
+- Finish the **Kubernetes beginner course**
+- Start prepping for CKAD with hands-on labs
+
+---
+
+> Small wins today → Big shifts tomorrow.  
