@@ -21,7 +21,7 @@
 title: My Learning Journey
 email: yashkrishh@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Join me as I share what I learn in tech each day.
+ I share what I learn each day.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://yashkrishh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  yashkrishh # Your GitHub username
