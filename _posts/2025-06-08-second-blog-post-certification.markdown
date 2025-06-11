@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 ## Sunday, June 8 — A Lazy Yet Reflective Day
 
-Wasted most of my time today. Did some office work (even though it is a Sunday) — verifying forecast values.
+Wasted most of my time today. Did some office work (even though it is a Sunday).
 
 ---
 
