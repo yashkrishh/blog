@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day 2 - A Lazy Yet Reflective Day"
+title:  "Day 2 - A Lazy Day"
 date:   2025-06-08 18:18:44 +0530
 categories: jekyll update
 ---
